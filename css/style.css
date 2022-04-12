@@ -1,0 +1,32 @@
+h1{
+    color: rgb(151, 20, 20);
+    background-color: darkgrey;
+
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+input{
+    color: rgb(27, 31, 28);
+    border-radius: 5px;
+    border-color: rgb(37, 190, 132);
+background-color: lightblue;
+border-style: groove;
+border-width: 4px;
+
+}
+fieldset{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+}
+form{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+textarea{
+    border-radius: 4px;
+    border-style: dashed;
+    border-color: rgb(14, 184, 57);
+    border-width: 2px;
+}
